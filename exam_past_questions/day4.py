@@ -16,16 +16,16 @@
 #  weight and height
 
 # cal bmi
-def calculateBMI(weight, height):
-    bmi = (weight * 703) / (height ** 2)
-    return bmi
+# def calculateBMI(weight, height):
+#     bmi = (weight * 703) / (height ** 2)
+#     return bmi
 
-def output 
-  # accept input weight and height
-  calculate_bmi = calculateBMI(weight, height)
-  if calculate_bmi < 18.5:
-        return "Underweight"
-    elif calculate_bmi > 25:
-        return "Overweight"
-    else:
-        return "Optimal weight"
+# def output 
+#   # accept input weight and height
+#   calculate_bmi = calculateBMI(weight, height)
+#   if calculate_bmi < 18.5:
+#         return "Underweight"
+#     elif calculate_bmi > 25:
+#         return "Overweight"
+#     else:
+#         return "Optimal weight"

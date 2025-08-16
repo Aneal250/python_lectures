@@ -28,8 +28,8 @@ personalInformation = {
     "college": "TUD"
 }
 
-{} == dictionary (python) || object Java and javascript
-[] == list (python) || array Java and javascript
+# {} == dictionary (python) || object Java and javascript
+# [] == list (python) || array Java and javascript
 
 
 # variable => personalInformation
@@ -40,7 +40,7 @@ personalInformation = {
 print(personalInformation["age"])  
 
 
-Variable
+# Variable
 
 # Type Data 
 
@@ -52,7 +52,7 @@ Variable
 #.  example age = 21,
 
 # 3. float
-example height = 5.4, 3.4, 5.6
+# example height = 5.4, 3.4, 5.6
 
 # 4 list 
 # favorite_foods = ["pounded_yam", "eferiro"] , ['dad', 'mom', 'brother', 'sister', 'finance']
@@ -68,21 +68,21 @@ example height = 5.4, 3.4, 5.6
 #     "college": "TUD"
 # }
 
-7. boolean,
-is_student = True
-isFairComplexioned = False
-isMarried = false,
-isNigerian = True
+# 7. boolean,
+# is_student = True
+# isFairComplexioned = False
+# isMarried = false,
+# isNigerian = True
 
 
-Task 1
-# a dictionary variable called personalInformation
-# with the following key-value pairs:
-name, status, nationality, age, height, weight, isStudent,
+# Task 1
+# # a dictionary variable called personalInformation
+# # with the following key-value pairs:
+# name, status, nationality, age, height, weight, isStudent,
 
 
-Task 2
-Create https://github.com/ account
+# Task 2
+# Create https://github.com/ account
 
-Task 3 
-Watch Video
+# Task 3 
+# Watch Video
