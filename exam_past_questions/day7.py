@@ -63,8 +63,8 @@ class Pet:
 # retrieve the pet's name, type, and age and display this data on the screen. 
 
 def main():
-    name = input("Enter the name of your pet: ")
-    animal_type = input("Enter the type of your pet (Dog, Cat, Bird): ")
+    name = input("Enter the name of your pet: ") # priming read
+    animal_type = input("Enter the type of your pet (Dog, Cat, Bird): ") #priming read
     age = int(input("Enter the age of your pet: "))
 
     pet = Pet(name, animal_type, age)
