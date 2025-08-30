@@ -46,7 +46,7 @@ def checkPassword(password):
         reason.append("Password must contain at least one uppercase letter.") 
    elif not any(char.isdigit() for char in password):
         reason.append("Password must contain at least one number.")
-   elif not reasons:
+   elif not reason:
         return True, ["password is good"]
    else: 
         return False, reason           
@@ -65,4 +65,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()           
+    main()    
+
+
+
